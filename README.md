@@ -8,7 +8,7 @@ In this project, I have created a simple deep learning model from scratch (on to
 Used the Keras - MNIST dataset.
 
 #### Some sample images from the dataset :
-![Sample Images]('MNIST-digit-classification/images.PNG')
+![Sample Images](https://github.com/bhavani0387/MNIST-digit-classification/blob/main/Images.PNG?raw=true)
 
 #### Methodology :
 - Import required files
