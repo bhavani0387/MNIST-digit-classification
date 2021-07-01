@@ -5,7 +5,7 @@
 In this project, I have created a simple deep learning model from scratch (on top of CNN) that is capable of identifying the digit present in an image.
 
 #### Data :
-Used the Keras - MNIST dataset.
+Used the Keras - MNIST dataset. Each image size is 28 X 28. There are 70,000 datapoints in the dataset. 
 
 #### Some sample images from the dataset :
 ![Sample Images](https://github.com/bhavani0387/MNIST-digit-classification/blob/main/Images.PNG?raw=true)
