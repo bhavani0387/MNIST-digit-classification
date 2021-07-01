@@ -7,6 +7,9 @@ In this project, I have created a simple deep learning model from scratch (on to
 #### Data :
 Used the Keras - MNIST dataset.
 
+#### Some sample images from the dataset :
+![Sample Images]('MNIST-digit-classification/images.PNG')
+
 #### Methodology :
 - Import required files
 - Load the data from keras module
