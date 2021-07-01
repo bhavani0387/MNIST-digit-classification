@@ -21,4 +21,4 @@ Used the Keras - MNIST dataset. Each image size is 28 X 28. There are 70,000 dat
 - Train the model.
 
 #### Conclusion :
-Got 99.10 training and 98.68 validation accuracy.
+Got 98.96 training and 98.74 validation accuracy.
